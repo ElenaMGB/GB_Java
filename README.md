@@ -1,2 +1,2 @@
 # GB_Java
-j
+2024-06-24 Seminar 1 
